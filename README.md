@@ -1,9 +1,9 @@
 <!-- Profile README -->
 
-<h1 align="center">👋 Hey, I’m Anjul Bhatia</h1>
-<h3 align="center">Data | AI | Strategy</h3>
+<h1>👋 Hey, I’m Anjul Bhatia</h1>
+<h3>Data | AI | Strategy</h3>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/anjulbhatia" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
@@ -43,18 +43,7 @@
 ### 📌 Featured Projects
 - 📊 **[Charts from Query](https://github.com/anjulbhatia/charts-from-query)** → AI-powered SQL → Visualization agent  
 - 🚇 **[Delhi Metro Network Analysis](https://github.com/anjulbhatia/delhi-metro-network)** → ML + NetworkX for congestion & planning insights  
-- 🧑‍💼 **[McKinsey AI Consultant](https://github.com/anjulbhatia/mckinsey-ai-consultant)** → Simulating consulting insights with LLMs  
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anjulbhatia&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjulbhatia&layout=compact&theme=radical" height="160"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anjulbhatia&theme=radical" height="160"/>
-</p>
+- 💼 **[McKinsey AI Consultant](https://github.com/anjulbhatia/mckinsey-ai-consultant)** → Simulating consulting insights with LLMs  
 
 ---
 

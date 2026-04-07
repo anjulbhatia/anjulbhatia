@@ -39,6 +39,6 @@ I am a 22 YO builder from India with a degree in pure mathematics which means I 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/anjulbhatia)
 
 ## Connect
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anjulbhatia08@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anjulbhatia2003@gmail.com)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/anjulbhatia)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=X&logoColor=white)](https://www.x.com/anjulbuilds)

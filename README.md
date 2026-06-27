@@ -22,9 +22,6 @@ India 🇮🇳 | Building AI products for researchers, consultants and hobbyists
 
 
 ## 📌 Current Projects
-- **[Charts from Query](https://github.com/anjulbhatia/charts-from-query)** - AI agents to convert you data confusion into analysis clarity 
-- **[Delhi Metro Network Analysis](https://github.com/anjulbhatia/delhimetro-networkanalysis)** → ML + NetworkX for congestion & urban planning insights  
-- **[McKinsey AI Consultant](https://github.com/anjulbhatia/antideck)** → Simulating consulting insights with LLMs  
 
 ## What I am building around
 - 🧩 Love solving **business problems through data storytelling**  

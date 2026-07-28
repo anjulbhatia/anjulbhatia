@@ -29,7 +29,7 @@ India 🇮🇳 | Building AI products for researchers, consultants and hobbyists
 - 🎮 Side passion: **building simulators & games for learning**
 
 ## Who Am I 
-I am a 22 YO builder from India with a degree in pure mathematics which means I am unemployable and hence have to look for low paying jobs like being an AI engineer, Quant researcher and Data scientist.  
+I am a 23 YO builder from India with a degree in pure mathematics which means I am unemployable and hence have to look for low paying jobs like being an AI engineer, Quant researcher and Data scientist.  
 
 ## GitHub Activity
 
